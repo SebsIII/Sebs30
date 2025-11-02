@@ -1,5 +1,14 @@
-- 👋 Hi, I’m @Sebs30
-- 👀 I like engeneering, chemistry, biology, astronomy, IT, making, aeronautics, cars and science in general.
+   _____      __           
+  / ___/___  / /_  _____   
+  \__ \/ _ \/ __ \/ ___/   
+ ___/ /  __/ /_/ (__  )    
+/____/\___/_.___/____/_____
+                    /_____/
+
+Student and science nerd
+
+- 👀 I like engeneering, chemistry, biology, astronomy, IT, making, aeronautics, cars and so on.
+
 - 🚀 I’m currently learning the physics of rockets since i don't want mine to explode.
 - 💞️ I’m looking for a <b>scientists</b> to talk
 
